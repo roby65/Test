@@ -12,7 +12,3 @@
 ## Official Bethesda Patch notes
 
 ### Planned changes (notes released 09/01/19)
-
->**January 14** TEST
->
->Last week we mentioned that we would be starting the new year with new patches. The first of those will be coming January 14. Like the December 11 update, this patch will address many issues raised by the community as well as continue focus on improving performance and stability.
